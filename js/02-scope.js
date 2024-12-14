@@ -1,11 +1,11 @@
-const firstName = 'Allen';
+// const firstName = 'Allen';
 
-if (true) {
-  const firstName = 'Anastasiia';
+// if (true) {
+//   const firstName = 'Anastasiia';
 
-  if (true) {
-    const firstName = 'Lela';
+//   if (true) {
+//     const firstName = 'Lela';
 
-    console.log(firstName);
-  }
-}
+//     console.log(firstName);
+//   }
+// }
