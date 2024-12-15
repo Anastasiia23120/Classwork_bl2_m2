@@ -25,4 +25,13 @@
 //   console.log('Done!');
 // }
 
-console.log();
+// console.log(null || 5);
+// console.log(0 || null);
+// console.log(5 || null);
+
+// const username = prompt('Enter your first name') || 'anonymus';
+// console.log(username);
+
+// console.log(!5);
+// console.log(!false);
+// console.log(!0);
